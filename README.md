@@ -1,9 +1,8 @@
 # The personal blog of Ken Baldwin
 ---
 ## IoT and Social Media
-### October 10, 2022
+### <i>Posted: October 10, 2022</i>
 <br/><br/>
----
 
 ## IoT and Social Media Effects Over Time
 The Internet of Things (IoT) refers to everyday items that are connected to the internet. Over time, these have evolved to include remote sensors, medical devices, home security systems, and several other smart applications for commercial, industrial, and personal use. Many devices do not require a primary server to interact but can communicate directly with other devices. The most significant development with IoT devices is the rapid amount of growth in the number of devices connected to the internet and the continued expansion of the types of applications IoT devices address. Since its advent in the 1980s IoT devices have grown from use in a few vending machines and ATMs to an estimated 18 billion devices this year (Collela, 2017). Cybersecurity for IoT, therefore, is becoming essential in providing security for networked resources, including data and physical assets. Today, good IoT security includes end-to-end encryption, regularly patching operating systems and software running on devices, and physically securing items to discourage theft.
